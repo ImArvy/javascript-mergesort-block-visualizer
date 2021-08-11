@@ -1,0 +1,67 @@
+.Array-container {
+    /*
+    position: absolute; 
+    top: 200px;
+    bottom: 200px; This is for the experimental block version.
+    left: 200px;
+    right: 200px;
+    */
+
+    position: absolute;
+    left: 80px;
+    right: 80px; 
+    top: 240px;
+    bottom: 240px;
+}
+
+
+.Array-block {
+    /*display: inline-block;
+    height: 100px;
+    width: 100px; 
+    background-color: turquoise; This is for my block version.
+    border: 1px solid black;
+    */
+
+    width: 5px;
+    background-color: turquoise;
+    display: inline-block; 
+    margin: 0 1px;
+}
+
+.Array-button {
+    color: black;
+    background-color: turquoise;
+    margin: 100px;
+}
+
+.Merge-button {
+    color: black;
+    background-color: turquoise;
+    margin: 100px;
+}
+
+.Quick-sort-button {
+    color: black;
+    background-color: turquoise;
+    margin: 100px;
+}
+
+.Bubble-sort-button {
+    color: black;
+    background-color: turquoise;
+    margin: 100px;
+}
+
+/* .Insertion-sort-button {
+    color: black;
+    background-color: turquoise;
+    margin: 60px;
+}
+*/
+
+.Heap-sort-button {
+    color: black;
+    background-color: turquoise;
+    margin: 100px;
+}
